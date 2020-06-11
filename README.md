@@ -1,7 +1,16 @@
-# Chat_App
-This repository consists of Chat App created with flutter and FireBase.
-There wil be many versions of this app , 
-First being the Basic Version.
-The second version will have options like adding info,updation profile pic ,Sending images and videos as message.
-Later versions will have a option to group chat and vedio call and all the other features like full fledged Chat App
-So stay connecrted for the New Versions as and when it will be updated.
+# chatappa
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
