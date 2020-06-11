@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826456789983",
+    "firebase_url": "https://chat-app--a.firebaseio.com",
+    "project_id": "chat-app--a",
+    "storage_bucket": "chat-app--a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826456789983:android:87b3ed5a9c8be43c672a6a",
+        "android_client_info": {
+          "package_name": "com.learning.chatappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826456789983-v1t74p79btsju1n5ugla3ug6hn7ktv73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRc4fzVSHdxKL9ycn2TU1LJv_a6VqhAGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826456789983-v1t74p79btsju1n5ugla3ug6hn7ktv73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
