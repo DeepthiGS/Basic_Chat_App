@@ -1,2 +1,7 @@
-# Basic_Chat_App
-This is Chat App created with flutter and FireBase.
+# Chat_App
+This repository consists of Chat App created with flutter and FireBase.
+There wil be many versions of this app , 
+First being the Basic Version.
+The seconf version will have options like adding info,updation profile pic ,Sending images and videos as message.
+Later version will have a option to group chat and vedio call.
+so stay connecrted for the New Verions as and when it will be updated.
